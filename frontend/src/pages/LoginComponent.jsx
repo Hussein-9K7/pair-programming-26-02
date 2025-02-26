@@ -1,4 +1,6 @@
-import React, { useState } from "react";
+/* eslint-disable no-undef */
+/* eslint-disable react/prop-types */
+import { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 
 const LoginComponent = ({ setIsAuthenticated }) => {
